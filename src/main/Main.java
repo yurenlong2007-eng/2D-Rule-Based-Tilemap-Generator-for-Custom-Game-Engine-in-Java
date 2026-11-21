@@ -31,8 +31,6 @@ public class Main {
         gp.createBufferStrategy(3);
         gp.startGame();
         
-        System.out.println("Game starts");
-        
     }
     
 }
